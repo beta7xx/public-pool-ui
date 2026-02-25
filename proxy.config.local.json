@@ -1,6 +1,6 @@
 {
     "/api": {
-        "target": "https://public-pool.inspire9.co.th",
+        "target": "https://122.154.107.141:3334",
         "secure": true,
         "changeOrigin": false,
         "logLevel": "debug"
