@@ -1,6 +1,6 @@
 {
     "/api": {
-        "target": "https://localhost:3334",
+        "target": "https://public-pool.inspire9.co.th",
         "secure": true,
         "changeOrigin": false,
         "logLevel": "debug"
