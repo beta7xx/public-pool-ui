@@ -17,7 +17,7 @@ WORKDIR /build
 COPY . .
 
 # Build Public Pool UI using NPM
-RUN npm i && npm run build
+RUN npm i && npm run build:electron
 
 ############################
 # Docker final environment #
