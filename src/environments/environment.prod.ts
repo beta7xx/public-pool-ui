@@ -1,5 +1,5 @@
 export const environment = {
     production: true,
-    API_URL: 'http://localhost:3334',
+    API_URL: 'https://public-pool.inspire9.co.th',
     STRATUM_URL: 'localhost:3333'
 };
